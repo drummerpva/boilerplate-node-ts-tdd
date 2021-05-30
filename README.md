@@ -8,8 +8,8 @@
 
   - <code>npm i -D typescript @types/node</code>
 
-- Linter /_Usar o .eslintrc.json, .eslintignore e .prettierrc como base_/
-  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin eslint-plugin-react</code>
+- Linter /_Usar o .eslintrc.json, .eslintignore, .prettierrc e .editorconfig como base_/
+  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin</code>
 
 ### Git Hooks
 
