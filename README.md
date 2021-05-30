@@ -19,20 +19,4 @@
 ### Jest
 
 - Biblioteca de testes /_usar o jest.config.js como base e scripts estão package.json_/
-  - <code>npm i -D jest @types/jest ts-jest faker identity-obj-proxy</code>
-
-### React
-
-- Bibliotecas principais
-  - <code>npm i react react-dom</code>
-  - <code>npm i -D @types/react @types/react-dom</code>
-
-### Bundle
-
-- Gerar arquivo JS /_usar webpack.config.js como base_/
-  - <code>npm i -D webpack webpack-cli webpack-dev-server clean-webpack-plugin</code>
-
-### SASS
-
-- Processador de CSS
-  - <code>npm i -D node-sass sass-loader css-loader style-loader ts-loader</code>
+  - <code>npm i -D jest @types/jest ts-jest faker</code>
