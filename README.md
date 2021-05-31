@@ -9,7 +9,11 @@
   - <code>npm i -D typescript @types/node</code>
 
 - Linter /_Usar o .eslintrc.json, .eslintignore, .prettierrc e .editorconfig como base_/
-  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin</code>
+  - <code>npm i -D eslint eslint-config-standard-with-typescript eslint-plugin-import eslint-plugin-promise eslint-plugin-node @typescript-eslint/eslint-plugin </code>
+  - <code>npm i -D --exact prettier</code>
+  - <code>npm i -D eslint-plugin-prettier eslint-config-prettier</code>
+  - Adicionar ao arquivo .vscode/settings.json
+    - <code>{ "editor.formatOnSave": false, "editor.codeActionsOnSave": { "source.fixAll.eslint": true } }</code>
 
 ### Git Hooks
 
