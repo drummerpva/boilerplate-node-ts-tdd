@@ -24,3 +24,9 @@
 
 - Biblioteca de testes /_usar o jest.config.js como base e scripts estão package.json_/
   - <code>npm i -D jest @types/jest ts-jest faker</code>
+
+### Sucrase
+
+- <code>npm i -D sucrase</code>
+- Adicionar o comando no package.json para executar o servidor de desenvolvimento para TS
+  - <code>"start": "sucrase-node src/main/server.ts"</code>
